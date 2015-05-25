@@ -1,0 +1,14 @@
+PODS:
+  - OverlayView (0.1.0)
+
+DEPENDENCIES:
+  - OverlayView (from `../`)
+
+EXTERNAL SOURCES:
+  OverlayView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  OverlayView: 02f35bf3c69fe2a8f1459456f4f41dae046eefb0
+
+COCOAPODS: 0.37.1

@@ -15,6 +15,7 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		770CCED966BF9D3D00AB93FA /* Pods_OverlayView_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A00955665D965292F84C28EE /* Pods_OverlayView_Example.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		D4169EB41B1395E8002971D0 /* e645d70001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D4169EB31B1395E8002971D0 /* e645d70001.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		7C4EF6D1FDDD0330345AC355 /* Pods-Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Tests/Pods-Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A00955665D965292F84C28EE /* Pods_OverlayView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OverlayView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD92969BF703B86AF6F9E74C /* Pods_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4169EB31B1395E8002971D0 /* e645d70001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = e645d70001.jpg; sourceTree = "<group>"; };
 		E8A1E399E1B67D48FCD637E4 /* Pods-Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Tests/Pods-Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -98,6 +100,7 @@
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
 				607FACDC1AFB9204008FA782 /* Images.xcassets */,
 				607FACDE1AFB9204008FA782 /* LaunchScreen.xib */,
+				D4169EB31B1395E8002971D0 /* e645d70001.jpg */,
 				607FACD31AFB9204008FA782 /* Supporting Files */,
 			);
 			name = "Example for OverlayView";
@@ -247,6 +250,7 @@
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
+				D4169EB41B1395E8002971D0 /* e645d70001.jpg in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
