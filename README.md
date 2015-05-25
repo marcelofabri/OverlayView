@@ -22,7 +22,7 @@ pod "OverlayView"
 
 ## Author
 
-Marcelo Fabri, marcelofabrimf@gmail.com
+Marcelo Fabri, me@marcelofabri.com
 
 ## License
 
